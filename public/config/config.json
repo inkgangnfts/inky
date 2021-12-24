@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x42FB16d4aE02816f15635BCA3c127b781A64bD62",
+  "SCAN_LINK": "https://rinkeby.etherscan.io/address/0x42fb16d4ae02816f15635bca3c127b781a64bd62",
+  "NETWORK": {
+    "NAME": "rinkeby",
+    "SYMBOL": "ETH",
+    "ID": 4
+  },
+  "NFT_NAME": "InkGang",
+  "SYMBOL": "INK",
+  "MAX_SUPPLY": 3333,
+  "WEI_COST": 4000000000000000000,
+  "DISPLAY_COST": 4,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://testnets.opensea.io/collection/inktest-v2",
+  "SHOW_BACKGROUND": true
+}
